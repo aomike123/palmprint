@@ -1,0 +1,2 @@
+# palmprint
+gabor+HOG+LBP
